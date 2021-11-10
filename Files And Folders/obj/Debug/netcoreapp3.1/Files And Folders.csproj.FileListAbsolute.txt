@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\bin\Debug\netcoreapp3.1\Files And Folders.exe
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\bin\Debug\netcoreapp3.1\Files And Folders.deps.json
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\bin\Debug\netcoreapp3.1\Files And Folders.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\bin\Debug\netcoreapp3.1\Files And Folders.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\bin\Debug\netcoreapp3.1\Files And Folders.dll
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\bin\Debug\netcoreapp3.1\Files And Folders.pdb
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\obj\Debug\netcoreapp3.1\Files And Folders.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\obj\Debug\netcoreapp3.1\Files And Folders.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\obj\Debug\netcoreapp3.1\Files And Folders.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\obj\Debug\netcoreapp3.1\Files And Folders.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\obj\Debug\netcoreapp3.1\Files And Folders.dll
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\obj\Debug\netcoreapp3.1\Files And Folders.pdb
+C:\Users\opilane\source\repos\Titpe21\Files And Folders\Files And Folders\obj\Debug\netcoreapp3.1\Files And Folders.genruntimeconfig.cache
